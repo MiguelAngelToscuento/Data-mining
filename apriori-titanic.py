@@ -91,6 +91,7 @@ print("transacciones cargadas: ")
 for t in transactions[:5]:
     print(t)
 
+# declaracion de confianza y soporte
 min_sup = 0.05
 min_conf = 0.95
 
